@@ -1,0 +1,12 @@
+Using serial code
+Pi estimated with 10000000000 tosses: 3.141574
+Time elapsed: 183.760000 seconds
+Using omp 
+Pi estimated with 10000000000 tosses: 3.141596
+Time elapsed: 144.400000 seconds
+Using mpi
+Pi estimated with 10000000000 tosses: 3.141593
+Time elapsed: 15.030000 seconds
+Using omp and mpi
+Pi estimated with 10000000000 tosses: 3.141591
+Time elapsed: 15.020000 seconds
